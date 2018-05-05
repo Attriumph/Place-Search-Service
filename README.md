@@ -40,12 +40,14 @@ It is written in three version. To be more specific:
       4. Web Server: Apache, NGINX
    
  ## Sreenshots
+  ![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
+  
  <img src="https://photos.google.com/photo/AF1QipN1Tw6KtUBPfWz2c1Pb_c_T-RuX3ZhhYV7uDFkk" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
 ![homepage](https://photos.google.com/photo/AF1QipN1Tw6KtUBPfWz2c1Pb_c_T-RuX3ZhhYV7uDFkk)
  https://ibb.co/jVnhW7
  https://ibb.co/cvSSyn
  https://ibb.co/eUAfJn
- ![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
+
  https://ibb.co/eUAfJn
  https://ibb.co/e5YT4S
  https://ibb.co/dVJjdn
