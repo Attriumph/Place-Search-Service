@@ -42,7 +42,8 @@ It is written in three version. To be more specific:
  ## Sreenshots
   ![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
   
- <img src="https://photos.google.com/photo/AF1QipN1Tw6KtUBPfWz2c1Pb_c_T-RuX3ZhhYV7uDFkk" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+ <img src="https://ibb.co/jVnhW7" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+ 
 ![homepage](https://photos.google.com/photo/AF1QipN1Tw6KtUBPfWz2c1Pb_c_T-RuX3ZhhYV7uDFkk)
  https://ibb.co/jVnhW7
  https://ibb.co/cvSSyn
