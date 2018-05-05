@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:text="Keyword"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:visibility="gone"
+            android:text="Please enter mandatory filed"
+            android:textSize="12sp"
+            android:textColor="@android:color/holo_red_dark"
+            android:id="@+id/reminder_keyword"
+            android:layout_marginLeft="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/search_places_keyword"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/places_search_edit_bg"
+            android:cursorVisible="true"
+            android:hint="Enter keyword"
+            android:textCursorDrawable="@drawable/places_search_edit_cursor"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:text="Category"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="16sp" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:entries="@array/category"></Spinner>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:text="Distance(in miles)"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/place_search_distances"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/places_search_distance_edit_bg"
+            android:cursorVisible="true"
+            android:hint="Enter distance (default 10 miles)"
+            android:textCursorDrawable="@drawable/places_search_distance_edit_cursor"
+            android:textSize="18sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+            android:text="From"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="16sp" />
+
+        <RadioGroup
+            android:id="@+id/group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+
+                android:id="@+id/current_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Current Location"
+                android:textColor="#000000"
+                android:textSize="12sp" />
+
+            <RadioButton
+                android:checked="true"
+                android:id="@+id/other_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Other.Specify Location"
+                android:textColor="#000000"
+                android:textSize="12sp" />
+        </RadioGroup>
+
+        <TextView
+            android:visibility="gone"
+            android:text="Please enter mandatory filed"
+            android:textSize="12sp"
+            android:textColor="@android:color/holo_red_dark"
+            android:id="@+id/reminder_loaction"
+            android:layout_marginLeft="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <AutoCompleteTextView
+            android:id="@+id/place_search_location"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/places_search_distance_edit_bg"
+            android:cursorVisible="true"
+            android:hint="Type in the location"
+            android:textCursorDrawable="@drawable/places_search_distance_edit_cursor"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp">
+
+            <Button
+                android:id="@+id/place_search_submit"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:text="SEARCH" />
+
+            <Button
+                android:id="@+id/place_search_clear"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0"
+                android:text="CLEAR" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

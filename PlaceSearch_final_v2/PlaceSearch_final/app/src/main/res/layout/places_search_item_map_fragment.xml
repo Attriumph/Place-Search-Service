@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_margin="10dp"
+        android:text="From"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <AutoCompleteTextView
+        android:id="@+id/start_address"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/places_search_distance_edit_bg"
+        android:cursorVisible="true"
+        android:textCursorDrawable="@drawable/places_search_distance_edit_cursor"
+        android:textSize="12sp" />
+
+    <Spinner
+        android:layout_margin="10dp"
+        android:entries="@array/mode"
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></Spinner>
+
+    <com.google.android.gms.maps.MapView
+        android:layout_marginTop="20dp"
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.google.android.gms.maps.MapView>
+
+</LinearLayout>
