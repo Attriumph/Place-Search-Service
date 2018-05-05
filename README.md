@@ -9,7 +9,9 @@ and removing places from favorites list and posting place info to Twitter.
 ## What is it written?
 It is written in three version. To be more specific:
 
-* the Nodejs version implements a comprehensive web application[(Video Demo).](https://www.youtube.com/watch?v=5OTM7qBMxfM).
+* the Nodejs version implements a comprehensive web application[(See Video Demo Here)](https://www.youtube.com/watch?v=5OTM7qBMxfM).
+
+
 
 
       1. allow user to search places accord inputs provided by user based onn Google Places API 
@@ -20,7 +22,7 @@ It is written in three version. To be more specific:
       6. the place can be addes as favorite places of users 
       7. Skills: AJAX, JSON, HTML5, Bootstrap, CSS, JavaScript,Node.js, AngularJS, Express, AWS
         
-* the Android version implements a comprehensive android application[(Video Demo).](https://www.youtube.com/watch?v=jhmInPC0m4M&feature=youtu.be).
+* the Android version implements a comprehensive android application[(See Video Demo Here)](https://www.youtube.com/watch?v=jhmInPC0m4M&feature=youtu.be).
 
       1. developed based upon the server of nodejs version on AWS, so the function is same
       2. matched places are displayed in a table showing type, name and address of places
@@ -31,7 +33,7 @@ It is written in three version. To be more specific:
       7. Skills: Android Studio, Java, AWS, Volley, Gson, Picasso, Google Play Service, Google Anrdoid API
 
 
-* the PHP version implements basic function of the web app[(Video Demo).](https://www.youtube.com/watch?v=1uffTsR2jLk&feature=youtu.be)
+* the PHP version implements basic function of the web app[(See Video Demo Here)](https://www.youtube.com/watch?v=1uffTsR2jLk&feature=youtu.be)
 
       1. allow user to search places accord information provided by user using Google Places API
       2. matched places are displayed in a table showing type, name and address of places
