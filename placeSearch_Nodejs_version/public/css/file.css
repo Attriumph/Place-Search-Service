@@ -1,0 +1,175 @@
+
+body {
+    padding-top: 50px;
+    /*max-width: 3000px;*/
+}
+
+.warnError{
+    border:solid red;
+}
+
+#form_section {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    background-color: #F7F5F7;
+    border-radius: 10px;
+}
+
+.text-color {
+    color: red;
+}
+
+.dropdown {
+    display: inline-block;
+}
+.highlight {
+    background-color:#f2df82;
+}
+.favorStar {
+    color: yellow;
+}
+.noFavor {
+    color: black;
+}
+
+#map {
+    margin: auto;
+    height: 300px;
+}
+.noRecord {
+    width:100%;
+    background-color:#f2df82
+}
+
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.star {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.star_under {
+    color: #ddd;
+}
+
+.star_over {
+    color: black;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /*display: none;*/
+}
+.single_star{
+    color: tomato;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.card-columns {
+    column-count: 4;
+}
+
+.card {
+    display:inline-block;
+}
+@media (min-width: 0) {
+    .card-columns {
+        column-count: 1;
+    }
+}
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 4;
+    }
+}
+
+@media (min-width: 768px) {
+    .card-columns {
+        column-count: 4;
+    }
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+}
+.btn40 {
+    width:40px;
+}
+.borderC {
+    border: 1px solid #eff0f2;
+    margin-bottom: 5px;
+}
+.thick {
+    font-weight:bold;
+}
+
+/*.listAnm .ng-hide {*/
+    /*transform: translateX(100%);*/
+    /*-ms-transform: translateX(100%);*/
+    /*-webkit-transform: translateX(100%);*/
+    /*opacity: 1;*/
+    /*transition-duration: 250ms;*/
+
+/*}*/
+
+
+.anm_left.ng-hide-remove{
+    transition:0.6s linear left;
+    left:100%;
+}
+.anm_left.ng-hide-remove-active {
+    left:0;
+ }
+.anm_right.ng-hide-remove{
+    transition:0.6s linear right;
+    left:-100%;
+}
+.anm_right.ng-hide-remove-active {
+    left:0;
+}
+
+
+
+.detailsSec{
+    -webkit-transition:all ease 0.6s;
+    transition:all ease 0.6s;
+    -moz-transition:all ease 0.6s;
+    -o-transition:all ease 0.6s;
+    position: relative;
+    left: 0;
+}
+.detailsSec.ng-hide-remove{
+    left: -100%;
+    opacity: 0;
+}
+.resultsSec{
+    -webkit-transition:all ease 0.6s;
+    transition:all ease 0.6s;
+    -moz-transition:all ease 0.6s;
+    -o-transition:all ease 0.6s;
+    position: relative;
+    left: 0;
+}
+.resultsSec.ng-hide-remove{
+    left: 100%;
+    opacity: 0;
+}
+.fade-in-out
+{
+    transition: 1s linear all;
+    opacity: 1;
+}
+
+.fade-in-out.ng-hide
+{
+    opacity: 0;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "hw8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "travelSearch.js",
+  "scripts": {
+    "start":"node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lingquan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "promises": "^0.2.5",
+    "request": "^2.85.0",
+    "star-rating-tag": "^0.2.1",
+    "yelp-fusion": "^2.0.3"
+  }
+}
