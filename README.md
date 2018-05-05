@@ -42,16 +42,16 @@ It is written in three version. To be more specific:
  ## Sreenshots
 ### Web Application
   
- <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="homepage" width="200" />
- <img src="http://chuantu.biz/t6/303/1525499114x-1566688353.png" alt="info" width="200" />
- <img src="http://chuantu.biz/t6/303/1525499144x-1566688353.png" alt="map"  width="200" />
- <img src="http://chuantu.biz/t6/303/1525499162x-1566688353.png" alt="review"  width="200" />
+ <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="homepage" width="300" style="display:inline"/>
+ <img src="http://chuantu.biz/t6/303/1525499114x-1566688353.png" alt="info" width="300" style="display:inline" />
+ <img src="http://chuantu.biz/t6/303/1525499144x-1566688353.png" alt="map"  width="300" />
+ <img src="http://chuantu.biz/t6/303/1525499162x-1566688353.png" alt="review"  width="300" style="display:inline"/>
     
   ### Android Application  
-  <img src="http://chuantu.biz/t6/303/1525499181x-1566688353.png" alt="homepage"  width="200" />
-  <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="result" width="200" />
-  <img src="http://chuantu.biz/t6/303/1525499235x-1566688353.png" alt="info"  width="200" />
+  <img src="http://chuantu.biz/t6/303/1525499181x-1566688353.png" alt="homepage"  width="200" style="display:inline"/>
+  <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="result" width="200" style="display:inline"/>
+  <img src="http://chuantu.biz/t6/303/1525499235x-1566688353.png" alt="info"  width="200" style="display:inline"/>
   <img src="http://chuantu.biz/t6/303/1525499258x-1566688353.png" alt="photo" width="200" />
- <img src="http://chuantu.biz/t6/303/1525499278x-1566688353.png" alt="map"  width="200" />
-  <img src="http://chuantu.biz/t6/303/1525499297x-1566688353.png" alt="review"  width="200" />
+ <img src="http://chuantu.biz/t6/303/1525499278x-1566688353.png" alt="map"  width="200" style="display:inline"/>
+  <img src="http://chuantu.biz/t6/303/1525499297x-1566688353.png" alt="review"  width="200"style="display:inline" />
  
