@@ -40,7 +40,7 @@ It is written in three version. To be more specific:
       4. Web Server: Apache, NGINX
    
  ## Sreenshots
- <img src=" https://ibb.co/e4Xudn" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+ <img src="https://ibb.co/e4Xudn" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
  https://ibb.co/e4Xudn
  https://ibb.co/jVnhW7
  https://ibb.co/cvSSyn
