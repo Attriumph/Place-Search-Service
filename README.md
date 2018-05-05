@@ -1,12 +1,12 @@
 # Place Search Service
 
-## High-level Discription
+## 1.High-level Discription
 Developed a webpage that allows users to search for places using the Google Places API and display the results on the same page 
 below the form. Once the user clicks on a button to search for place details, the webpage will display several tabs which contain
 an info table, photos of the place, map and route search form and reviews respectively. The webpage also supports adding places to
 and removing places from favorites list and posting place info to Twitter.
 
-## What is it written?
+## 2.What is it written?
 It is written in three version. To be more specific:
 
 * the Nodejs version implements a comprehensive web application[(See Video Demo Here)](https://www.youtube.com/watch?v=5OTM7qBMxfM).
@@ -39,7 +39,7 @@ It is written in three version. To be more specific:
       3. Skills: AJAX, JSON, HTML, CSS, PHP, DOM
       4. Web Server: Apache, NGINX
    
- ## Sreenshots
+ ## 3.Sreenshots
 ### Web Application
   <div align="center">    
  <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="homepage" width="500" style="display:inline"/>
