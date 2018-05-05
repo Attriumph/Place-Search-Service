@@ -8,7 +8,8 @@ and removing places from favorites list and posting place info to Twitter.
 
 ## What is it written?
 It is written in three version. To be more specific:
-* the Nodejs version implements a comprehensive web application[(Vedio Demo)]: https://www.youtube.com/watch?v=5OTM7qBMxfM
+* the Nodejs version implements a comprehensive web application[(Vedio Demo)](https://www.youtube.com/watch?v=5OTM7qBMxfM)
+
 
       1. allow user to search places accord inputs provided by user based onn Google Places API 
       2. matched places are displayed in a table showing type, name and address of places
