@@ -40,9 +40,9 @@ It is written in three version. To be more specific:
       4. Web Server: Apache, NGINX
    
  ## Sreenshots
-  ![GitHub](https://photos.google.com/photo/AF1QipN1Tw6KtUBPfWz2c1Pb_c_T-RuX3ZhhYV7uDFkk "GitHub,Social Coding")
+  ![GitHub](http://chuantu.biz/t6/303/1525498970x-1404817760.png "GitHub,Social Coding")
   
- <img src="https://ibb.co/jVnhW7" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
+ <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
  
 ![homepage](https://photos.google.com/photo/AF1QipN1Tw6KtUBPfWz2c1Pb_c_T-RuX3ZhhYV7uDFkk)
  https://ibb.co/jVnhW7
