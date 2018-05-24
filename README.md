@@ -10,6 +10,7 @@ and removing places from favorites list and posting place info to Twitter.
 It is written in three version. To be more specific:
 
 * the Nodejs version implements a comprehensive web application[(See Video Demo Here)](https://www.youtube.com/watch?v=5OTM7qBMxfM).
+      [try it by yourself](http://placesearch-env.us-west-1.elasticbeanstalk.com/)
       
       1. allow user to search places accord inputs provided by user based onn Google Places API 
       2. matched places are displayed in a table showing type, name and address of places
