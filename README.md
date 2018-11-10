@@ -1,7 +1,7 @@
 # Place Search Service
 
 ## 1.High-level Discription
-Developed a webpage that allows users to search for places using the Google Places API and display the results on the same page 
+Developed a webpage that allows users to search for places using the Google Places API and display the results on the same page
 below the form. Once the user clicks on a button to search for place details, the webpage will display several tabs which contain
 an info table, photos of the place, map and route search form and reviews respectively. The webpage also supports adding places to
 and removing places from favorites list and posting place info to Twitter.
@@ -11,8 +11,8 @@ It is written in three version. To be more specific:
 
 * the Nodejs version implements a comprehensive web application[(See Video Demo Here)](https://www.youtube.com/watch?v=5OTM7qBMxfM)
       [Try it by yourself](http://placesearch-env.us-west-1.elasticbeanstalk.com/)
-      
-      1. allow user to search places accord inputs provided by user based onn Google Places API 
+
+      1. allow user to search places accord inputs provided by user based onn Google Places API
       2. matched places are displayed in a table showing type, name and address of places
       3. enable use see place details in info tab, photo tab, map tab and reviews tab
       4. map allows users choose travel mode and input start location and end location
@@ -20,7 +20,7 @@ It is written in three version. To be more specific:
       6. the place can be addes as favorite places of users
       7. responsive design, the web application works both an desktop and mobile
       7. Skills: AJAX, JSON, HTML5, Bootstrap, CSS, JavaScript,Node.js, AngularJS, Express, AWS
-      
+
 * the Android version implements a comprehensive android application[(See Video Demo Here)](https://www.youtube.com/watch?v=jhmInPC0m4M&feature=youtu.be).
 
       1. developed based upon the server of nodejs version on AWS, so the function is same
@@ -28,38 +28,39 @@ It is written in three version. To be more specific:
       3. enable use see place details in info tab, photo tab, map tab and reviews tab
       4. map allows users choose travel mode and input start location and end location
       5. review tab allows user to sort the reviews(Goolge review and Yelp review)
-      6. the place can be addes as favorite places of users 
+      6. the place can be addes as favorite places of users
       7. Skills: Android Studio, Java, AWS, Volley, Gson, Picasso, Google Play Service, Google Anrdoid API
 
 
 * the PHP version implements basic function of the web app[(See Video Demo Here)](https://www.youtube.com/watch?v=1uffTsR2jLk&feature=youtu.be)
 [Try it by yourself](http://cs-server.usc.edu:12293/page.php)
-      
+
       1. allow user to search places accord information provided by user using Google Places API
       2. matched places are displayed in a table showing type, name and address of places
       3. Skills: AJAX, JSON, HTML, CSS, PHP, DOM
       4. Web Server: Apache, NGINX
-   
+
  ## 3.Sreenshots
 ### 3.1 Web Application
   <div align="center">    
- <img src="http://chuantu.biz/t6/303/1525498970x-1404817760.png" alt="homepage" width="800" style="display:inline"/>
- <img src="http://chuantu.biz/t6/303/1525499114x-1566688353.png" alt="info" width="800" style="display:inline" />
+ <img src="https://github.com/Attriumph/Place-Search-Service/images/homepage.png" alt="homepage" width="800" style="display:inline"/>
+ <img src="https://github.com/Attriumph/Place-Search-Service/images/detail.png" alt="info" width="800" style="display:inline" />
  </div>
- 
-  <div align="center"> 
- <img src="http://chuantu.biz/t6/303/1525499144x-1566688353.png" alt="map"  width="800"  style="display:inline" />
- <img src="http://chuantu.biz/t6/303/1525499162x-1566688353.png" alt="review"  width="800" style="display:inline"/>
-  </div> 
-    
+
+  <div align="center">
+   <img src="https://github.com/Attriumph/Place-Search-Service/images/result.png" alt="info" width="800" style="display:inline" />
+   <img src="https://github.com/Attriumph/Place-Search-Service/images/map.png" alt="info" width="800" style="display:inline" />
+  </div>
+  <img src="https://github.com/Attriumph/Place-Search-Service/images/review.png" alt="info" width="800" style="display:inline" />
+
   ### 3.2 Android Application  
-  <div align="center"> 
+  <div align="center">
   <img src="http://chuantu.biz/t6/303/1525499181x-1566688353.png" alt="homepage"  width="200" style="display:inline"/>
   <img src="http://chuantu.biz/t6/303/1525500260x-1404817670.png" alt="result" width="200" style="display:inline"/>
   <img src="http://chuantu.biz/t6/303/1525499235x-1566688353.png" alt="info"  width="200" style="display:inline"/>
   </div>  
- 
- <div align="center"> 
+
+ <div align="center">
   <img src="http://chuantu.biz/t6/303/1525499258x-1566688353.png" alt="photo" width="200"  style="display:inline"/>
  <img src="http://chuantu.biz/t6/303/1525499278x-1566688353.png" alt="map"  width="200" style="display:inline"/>
   <img src="http://chuantu.biz/t6/303/1525499297x-1566688353.png" alt="review"  width="200"style="display:inline" />
