@@ -55,13 +55,13 @@ It is written in three version. To be more specific:
 
   ### 3.2 Android Application  
   <div align="center">
-    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_home" alt="info" width="800" style="display:inline" />
-    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_result" alt="info" width="800" style="display:inline" />  
-    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_detail" alt="info" width="800" style="display:inline" />
+    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_home.png" alt="info" width="800" style="display:inline" />
+    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_result.png" alt="info" width="800" style="display:inline" />  
+    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_detail.png" alt="info" width="800" style="display:inline" />
   </div>  
 
  <div align="center">
-    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_nav" alt="info" width="800" style="display:inline" />
-  <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_review" alt="info" width="800" style="display:inline" />
-    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_photo" alt="info" width="800" style="display:inline" />
+    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_nav.png" alt="info" width="800" style="display:inline" />
+  <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_review.png" alt="info" width="800" style="display:inline" />
+    <img src="https://github.com/Attriumph/Place-Search-Service/blob/master/images/app_photo.png" alt="info" width="800" style="display:inline" />
   </div>
