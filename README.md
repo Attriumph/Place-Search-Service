@@ -23,8 +23,8 @@ It is written in three version. To be more specific:
 
 * the Android version implements a comprehensive android application[(See Video Demo Here)](https://www.youtube.com/watch?v=jhmInPC0m4M&feature=youtu.be).
 
-      1. developed based upon the server of nodejs version on AWS, so the function is same
-      2. matched places are displayed in a table showing type, name and address of places
+      1. Developed based upon the server of nodejs version on AWS, so the function is same
+      2. Matched places are displayed in a table showing type, name and address of places
       3. enable use see place details in info tab, photo tab, map tab and reviews tab
       4. map allows users choose travel mode and input start location and end location
       5. review tab allows user to sort the reviews(Goolge review and Yelp review)
