@@ -12,13 +12,13 @@ It is written in three version. To be more specific:
 * the Nodejs version implements a comprehensive web application[(See Video Demo Here)](https://www.youtube.com/watch?v=5OTM7qBMxfM)
       [Try it by yourself](http://placesearch-env.us-west-1.elasticbeanstalk.com/)
 
-      1. allow user to search places accord inputs provided by user based onn Google Places API
-      2. matched places are displayed in a table showing type, name and address of places
-      3. enable use see place details in info tab, photo tab, map tab and reviews tab
-      4. map allows users choose travel mode and input start location and end location
-      5. review tab allows user to sort the reviews(Goolge review and Yelp review)
-      6. the place can be addes as favorite places of users
-      7. responsive design, the web application works both an desktop and mobile
+      1. Allow user to search places accord inputs provided by user based onn Google Places API
+      2. Matched places are displayed in a table showing type, name and address of places
+      3. Enable use see place details in info tab, photo tab, map tab and reviews tab
+      4. Map allows users choose travel mode and input start location and end location
+      5. Review tab allows user to sort the reviews(Goolge review and Yelp review)
+      6. The place can be addes as favorite places of users
+      7. Responsive design, the web application works both an desktop and mobile
       7. Skills: AJAX, JSON, HTML5, Bootstrap, CSS, JavaScript,Node.js, AngularJS, Express, AWS
 
 * the Android version implements a comprehensive android application[(See Video Demo Here)](https://www.youtube.com/watch?v=jhmInPC0m4M&feature=youtu.be).
